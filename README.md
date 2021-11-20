@@ -26,3 +26,9 @@ It has 3 main features:
 To run the client application, please run the following commands from the client directory.
 * npm install 
 * npm run start 
+
+---
+
+## Screen shots:
+![Create New Contact:](https://github.com/MobeenZar/zar-cloud-dev-capstone/blob/main/images/createNewContact.PNG)
+
