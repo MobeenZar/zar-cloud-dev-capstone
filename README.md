@@ -30,5 +30,15 @@ To run the client application, please run the following commands from the client
 ---
 
 ## Screen shots:
+
+My Contact Home
+![Contact Home:](https://github.com/MobeenZar/zar-cloud-dev-capstone/blob/main/images/myContactHome.PNG)
+---
+
+Edit My Contact
+![Edit My Contact:](https://github.com/MobeenZar/zar-cloud-dev-capstone/blob/main/images/editContact.PNG)
+---
+
+Create New Contact
 ![Create New Contact:](https://github.com/MobeenZar/zar-cloud-dev-capstone/blob/main/images/createNewContact.PNG)
 
