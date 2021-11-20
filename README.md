@@ -25,4 +25,4 @@ It has 3 main features:
 
 To run the client application, please run the following commands from the client directory.
 * npm install 
-* npm run start
+* npm run start 
