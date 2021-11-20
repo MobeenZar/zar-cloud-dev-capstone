@@ -20,9 +20,9 @@ It has 3 main features:
 ---
 
 ## Technologies Used:
-Backend: Serverless application using DynamoDB and S3 Bucket
-Client: React
+* Backend: Serverless application using DynamoDB and S3 Bucket
+* Client: React
 
-To run the application, please run the following commands from the client directory.
+To run the client application, please run the following commands from the client directory.
 * npm install 
 * npm run start
